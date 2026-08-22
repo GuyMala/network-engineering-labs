@@ -19,6 +19,7 @@ Hands-on enterprise networking labs built in EVE-NG, documenting design decision
 | [Many-to-One NAT (PAT/Overload)](./many-to-one-nat-lab.md) | NAT overload, RIPv2 inter-router routing | Complete |
 | [Implement MST](./mst-implementation-lab.md) | MST region design, root priority tuning, diagnosing a real region mismatch | Complete |
 | [Explore Layer 3 Switching](./layer3-switching-lab.md) | SVI-based routing, EIGRP between distribution switches, access vs. distribution roles | Complete |
+| [OSPF, VRRP, and EtherChannel](./ospf-vrrp-etherchannel-lab.md) | Multi-area OSPF backbone, active/active VRRP with object tracking, LACP EtherChannel | Complete |
 | IPsec / GRE / VRF Tunneling | Site-to-site VPN, transform-set compatibility | Complete |
 | VTPv3 / STP-MST / EtherChannel | Layer 2 optimization and redundancy | Complete |
 
