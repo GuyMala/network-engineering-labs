@@ -21,6 +21,7 @@ Hands-on enterprise networking labs built in EVE-NG, documenting design decision
 | [Explore Layer 3 Switching](./layer3-switching-lab.md) | SVI-based routing, EIGRP between distribution switches, access vs. distribution roles | Complete |
 | [OSPF, VRRP, and EtherChannel](./ospf-vrrp-etherchannel-lab.md) | Multi-area OSPF backbone, active/active VRRP with object tracking, LACP EtherChannel | Complete |
 | [SPAN Monitoring](./span-monitoring-lab.md) | Local SPAN configuration, VLAN-based source mirroring, traffic capture and analysis with Wireshark | Complete |
+| [RSPAN Monitoring](./rspan-monitoring-lab.md) | Cross-switch RSPAN, remote-span VLAN configuration, trunk propagation, source/destination session troubleshooting | Complete |
 | IPsec / GRE / VRF Tunneling | Site-to-site VPN, transform-set compatibility | Complete |
 | VTPv3 / STP-MST / EtherChannel | Layer 2 optimization and redundancy | Complete |
 
