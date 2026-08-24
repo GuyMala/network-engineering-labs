@@ -22,6 +22,7 @@ Hands-on enterprise networking labs built in EVE-NG, documenting design decision
 | [OSPF, VRRP, and EtherChannel](./ospf-vrrp-etherchannel-lab.md) | Multi-area OSPF backbone, active/active VRRP with object tracking, LACP EtherChannel | Complete |
 | [SPAN Monitoring](./span-monitoring-lab.md) | Local SPAN configuration, VLAN-based source mirroring, traffic capture and analysis with Wireshark | Complete |
 | [RSPAN Monitoring](./rspan-monitoring-lab.md) | Cross-switch RSPAN, remote-span VLAN configuration, trunk propagation, source/destination session troubleshooting | Complete |
+| [ERSPAN Design](./erspan-monitoring-lab.md) | Layer 3 / GRE-based traffic mirroring across a routed boundary, Nexus (NX-OS) ERSPAN syntax, platform and resource research | Design only |
 | IPsec / GRE / VRF Tunneling | Site-to-site VPN, transform-set compatibility | Complete |
 | VTPv3 / STP-MST / EtherChannel | Layer 2 optimization and redundancy | Complete |
 
