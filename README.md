@@ -23,6 +23,7 @@ Hands-on enterprise networking labs built in EVE-NG, documenting design decision
 | [SPAN Monitoring](./span-monitoring-lab.md) | Local SPAN configuration, VLAN-based source mirroring, traffic capture and analysis with Wireshark | Complete |
 | [RSPAN Monitoring](./rspan-monitoring-lab.md) | Cross-switch RSPAN, remote-span VLAN configuration, trunk propagation, source/destination session troubleshooting | Complete |
 | [ERSPAN Design](./erspan-monitoring-lab.md) | Layer 3 / GRE-based traffic mirroring across a routed boundary, Nexus (NX-OS) ERSPAN syntax, platform and resource research | Design only |
+| [Centralized DHCP with HSRP Redundancy](./dhcp-hsrp-client-identifier-lab.md) | Multi-VLAN DHCP, HSRP redundant gateways, DHCP client-identifier troubleshooting | Complete |
 | IPsec / GRE / VRF Tunneling | Site-to-site VPN, transform-set compatibility | Complete |
 | VTPv3 / STP-MST / EtherChannel | Layer 2 optimization and redundancy | Complete |
 
